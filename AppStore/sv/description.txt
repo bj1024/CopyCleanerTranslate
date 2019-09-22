@@ -1,0 +1,19 @@
+Kopiera och klistra in Cleaner är Urklippshanteraren & cleaner.You kan se text och bilder kopieras i Urklipp och kan ta bort immidiately.
+När du kopierar text eller bilder, kopierade data är fortfarande i clipboard.Before du använder felaktig text och bild, låt oss erace klippbordet.
+Låt oss förhindra sådan lösenord utflöde, felaktig överföring.
+
+** huvud funktion
+- Visa aktuella innehållet i Urklipp (text och bild).
+- Ta bort innehållet i Urklipp med ett enda klick.
+- Ta bort urklipp ibland i bakgrunden.
+- Meddela för urklipp clearing.
+- Språkval.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/

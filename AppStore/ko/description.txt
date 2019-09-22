@@ -1,0 +1,18 @@
+코피 클리어는 복사하여 클립 보드에 저장된 텍스트 이미지를 보거나 지울 수 있습니다.
+코피 후 복사 내용이 남아 있기 때문에 잘못된 메시지 나 사진을 보낼 수 없도록 때때로 클립 보드 내용을 끕시다.
+오 송신, 비밀번호 유출 등을 예방합시다.
+
+■ 주요 기능
+- 현재 클립 보드 내용 (텍스트 이미지)를 표시합니다.
+- 한 번의 클릭으로 클립 보드 데이터를 삭제할 수 있습니다.
+- 때때로 백그라운드에서 클립 보드 데이터를 삭제합니다.
+- 클립 보드의 제거를 잊지 않도록 알립니다.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/

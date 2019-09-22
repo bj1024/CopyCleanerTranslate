@@ -1,0 +1,19 @@
+Kopier og lim inn Cleaner er utklippstavlen viewer & cleaner.You kan se tekst og bilder kopiert i utklippstavlen, og kan slette mine umiddelbart.
+Når du kopierer tekst eller bilder, kopierte data er fortsatt i clipboard.Before du bruker feil tekst og bilde, la oss erace utklippstavlen.
+La oss unngå slike passord utstrømming, feilaktig overføring.
+
+** hovedfunksjon
+- Vis gjeldende utklippstavle innholdet (tekst og bilde).
+- Slett utklippstavle innholdet i ett klikk.
+- Slett utklippstavlen noen ganger i bakgrunnen.
+- Varsle for utklippstavle clearing.
+- Valg av språk.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/

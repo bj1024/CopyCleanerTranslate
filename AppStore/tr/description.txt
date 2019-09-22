@@ -1,0 +1,19 @@
+Kopyala ve Yapıştır Temizleyici pano görüntüleyici & cleaner.You metin ve resimler panoya kopyalanan ve turnike silebilir görebilirsiniz.
+Eğer metin veya görüntü kopyalarsanız kopyalanan veriler yanlış metin ve resim kullanmak clipboard.Before hala, en panoya erace edelim.
+en tür şifre çıkışı hatalı geçişini önlemek edelim.
+
+** ana özellik
+- Geçerli pano içeriğini (Metin ve Resim) göster.
+- Tek bir tıklamayla pano içeriğini silin.
+- Arka planda bazen panoya silin.
+- pano temizleme için bildir.
+- Dil seçimi.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/

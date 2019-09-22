@@ -1,0 +1,19 @@
+Copy & Paste Cleaner adalah penonton clipboard & cleaner.You boleh melihat teks dan imej disalin clipboard dan boleh memadam immidiately.
+Apabila anda menyalin teks atau imej, data disalin masih clipboard.Before yang anda gunakan teks yang salah dan imej, mari kita erace papan klip.
+Mari kita mengelakkan aliran keluar kata laluan tersebut, penghantaran yang salah.
+
+** ciri utama
+- Tunjukkan kandungan papan klip semasa (teks dan imej).
+- Padam kandungan papan klip dalam satu klik.
+- Padam clipboard kadang-kadang dalam latar belakang.
+- Beritahu untuk clipboard penjelasan.
+- Pemilihan bahasa.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/

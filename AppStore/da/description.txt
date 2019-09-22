@@ -1,0 +1,19 @@
+Kopier og indsæt Cleaner er udklipsholderen seeren & cleaner.You kan se tekst og billeder kopieres i udklipsholderen og kan slette bedes.
+Når du kopierer tekst eller billeder, kopierede data er stadig i clipboard.Before du bruger forkert tekst og billede, så lad os erace udklipsholderen.
+Lad os forhindre en sådan adgangskode udstrømning, fejlagtig overførsel.
+
+** hovedfunktion
+- Vis nuværende klippebordsindhold (Tekst og billede).
+- Slet klippebordets indhold i et enkelt klik.
+- Slet udklipsholderen undertiden i baggrunden.
+- Informer for clipboard clearing.
+- Valg af sprog.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/

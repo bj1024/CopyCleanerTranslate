@@ -1,0 +1,19 @@
+Copia & Incolla Cleaner è visualizzatore di appunti e cleaner.You può vedere il testo e le immagini copiate negli appunti e può eliminare diementicato.
+Quando si copia di testo o immagini, dati copiati sono ancora in clipboard.Before si utilizza il testo errato e l'immagine, cerchiamo di erace negli appunti.
+Diamo prevenire tale deflusso della password, la trasmissione erronea.
+
+** caratteristica principale
+- Mostra il contenuto degli appunti correnti (testo e immagine).
+- Eliminare il contenuto degli appunti in uno scatto.
+- Eliminare appunti a volte in background.
+- Notifica per appunti di compensazione.
+- Selezione della lingua.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/

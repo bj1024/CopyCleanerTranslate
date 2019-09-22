@@ -1,0 +1,19 @@
+Copy & Paste Cleaner adalah penampil clipboard & cleaner.You dapat melihat teks dan gambar disalin dalam clipboard dan dapat menghapus immidiately.
+Ketika Anda menyalin teks atau gambar, data yang disalin masih dalam clipboard.Before Anda menggunakan teks yang salah dan gambar, mari kita erace clipboard.
+Mari kita mencegah aliran sandi tersebut, transmisi yang keliru.
+
+** Fitur utama
+- Tampilkan isi clipboard saat ini (Teks dan Image).
+- Hapus isi clipboard dalam satu kali klik.
+- Hapus clipboard kadang-kadang di latar belakang.
+- Beritahu untuk kliring clipboard.
+- Pilihan bahasa.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/
