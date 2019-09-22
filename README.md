@@ -35,4 +35,4 @@ AppStore information of each countries.
 Please make pull request.  
 After checkking, merge it.  
 If I can not understand words or expression, I will ask it.  
- 
+
