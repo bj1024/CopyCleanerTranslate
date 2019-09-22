@@ -1,0 +1,19 @@
+Kopioi ja liitä Cleaner on leikepöydälle katsoja & cleaner.You voi nähdä tekstin ja kuvien kopioidaan leikepöydälle ja voi poistaa immidiately.
+Kun kopioida tekstiä tai kuvia, kopioidut tiedot ovat vielä clipboard.Before käytät väärän tekstin ja kuvan, nyt erace leikepöydälle.
+Katsotaan estää salasanalla ulosvirtaus, virheellinen lähetys.
+
+** pääominaisuus
+- Näyttää nykyisen leikepöydän sisällön (teksti ja kuva).
+- Poista leikepöydän sisällön yhdellä napsautuksella.
+- Poista leikepöydälle joskus taustalla.
+- Ilmoita leikepöydän selvitys.
+- Kielen valinta.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/

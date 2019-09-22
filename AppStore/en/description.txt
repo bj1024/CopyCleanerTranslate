@@ -1,0 +1,19 @@
+Copy&Paste Cleaner is clipboard viewer & cleaner.You can see the text and images copied in the clipboard and can delete immidiately.
+When you copy text or images,copied data are still in the clipboard.Before you use the incorrect text and image, let's erace the clipboard.
+Let's prevent such password outflow,erroneous transmission.
+
+** main feature
+- Show current clipboard contents(Text and Image).
+- Delete clipboard contents in one click.
+- Delete clipboard sometimes in background.
+- Notify for clipboard clearing.
+- Language selection.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/

@@ -1,0 +1,19 @@
+Copiar y pegar Cleaner es visor del portapapeles y cleaner.You puede ver el texto y las imágenes copiadas en el portapapeles y pueden eliminar immidiately.
+Al copiar texto o imágenes, datos copiados están todavía en el clipboard.Before utiliza el texto incorrecto y la imagen, vamos a Erace el portapapeles.
+Vamos a evitar este tipo de flujo de salida de contraseña, la transmisión errónea.
+
+** caracteristica principal
+- Mostrar contenido actual del portapapeles (texto e imagen).
+- Eliminar el contenido del portapapeles en un solo clic.
+- Eliminar portapapeles veces en segundo plano.
+- Notificar para la limpieza del portapapeles.
+- Selección de idioma.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/

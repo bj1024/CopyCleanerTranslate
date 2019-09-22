@@ -1,0 +1,19 @@
+Copy & Paste Cleaner ist Zwischenablage-Viewer & cleaner.You kann der Text und Bilder in die Zwischenablage kopiert sehen und kann alles sofort löschen.
+Wenn Sie Text oder Bilder zu kopieren, kopierten Daten sind noch in der clipboard.Before Sie den falschen Text und Bild verwenden, lassen Sie uns die Zwischenablage erace.
+Lassen Sie sich solches Passwort Abflüsse, fehlerhafte Übertragung verhindern.
+
+** Hauptmerkmal
+- Anzeigen des aktuellen Inhalt der Zwischenablage (Text und Bild).
+- Inhalt der Zwischenablage in einem einzigen Klick löschen.
+- Löschen Zwischenablage manchmal im Hintergrund.
+- Eine Nachricht für Zwischenablage Clearing.
+- Sprachauswahl.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/

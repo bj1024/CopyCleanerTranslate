@@ -1,0 +1,19 @@
+คัดลอกและวาง Cleaner เป็นโปรแกรมดูคลิปบอร์ดและ cleaner.You สามารถดูข้อความและภาพที่คัดลอกในคลิปบอร์ดและสามารถลบ immidiately
+เมื่อคุณคัดลอกข้อความหรือรูปภาพข้อมูลที่คัดลอกยังคงอยู่ใน clipboard.Before ที่คุณใช้ข้อความที่ไม่ถูกต้องและภาพขอ erace คลิปบอร์ด
+Let 's ป้องกันไม่ให้ไหลออกรหัสผ่านดังกล่าวส่งผิดพลาด
+
+** คุณสมบัติหลัก
+- แสดงเนื้อหาของคลิปบอร์ดปัจจุบัน (ข้อความและรูปภาพ)
+- ลบเนื้อหาของคลิปบอร์ดได้ในคลิกเดียว
+- ลบคลิปบอร์ดบางครั้งในพื้นหลัง
+- แจ้งเตือนคลิปบอร์ดหักบัญชี
+- เลือกภาษา
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/

@@ -1,0 +1,19 @@
+Copy & Paste Cleaner é visualizador de área de transferência & cleaner.You pode ver o texto e as imagens copiadas na área de transferência e pode eliminar immidiately.
+Quando você copiar texto ou imagens, ainda são dados copiados na clipboard.Before você usar o texto incorreto e imagem, vamos ERACE a área de transferência.
+Vamos impedir essa saída senha, transmissão errônea.
+
+** Característica principal
+- Mostrar conteúdo da área de corrente (texto e imagem).
+- Excluir o conteúdo da área de transferência em um clique.
+- Excluir área de transferência, por vezes, em segundo plano.
+- Notificar para compensação clipboard.
+- Seleção de idioma.
+
+** Terms of use & Conditions
+https://digitalnauts.com/terms/app_term_of_use/
+
+** Privacy policy
+https://digitalnauts.com/privacypolicy/app_privacy_policy/
+
+** developper  
+DIGITALNAUTS INC. https://digitalnauts.com/
