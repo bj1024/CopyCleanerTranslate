@@ -4,8 +4,6 @@
 This is a translation repository of CopyCleaner for iOS application.  
 Contains characters used within the app and AppStore wordings.  
 If there is a translation error, please pull request.  
-The author's translation skills are very low. 😅  
-
 
 # Contents
 
