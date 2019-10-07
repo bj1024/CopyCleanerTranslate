@@ -1,9 +1,9 @@
 # CopyCleanerTranslate
 
 ## Introduction
-This is a translation repository of CopyCleaner for iOS application.  
-Contains characters used within the app and AppStore wordings.  
-If there is a translation error, please pull request.  
+This is a repository of 'CopyCleaner' translation for iOS application.  
+This repo has localized string of app and AppStore.  
+If there is a wrong translation, please make pull request.  
 
 # Contents
 
