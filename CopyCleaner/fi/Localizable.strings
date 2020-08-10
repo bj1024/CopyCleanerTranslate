@@ -1,4 +1,4 @@
-"mainTitle"="Kopioi & liitä Cleaner";
+"mainTitle"="Erase Kopioi";
 "appnamePro"="ammattilainen";
 "lblEmpty"="Leikepöydälle on tyhjä.";
 "notifyUseme"="Tarkista leikepöytää turvallisuussyistä.";
@@ -10,7 +10,9 @@
 "settingsAppinfotitle"="App tiedot";
 "settingsAppinfoSiteLink"="Verkkosivusto";
 "settingSecAppInfoURL"="https://digitalnauts.com/app/copycleaner/";
-"settingSecAppReview"="Arvioi ja tähti tämän sovelluksen.";
+"settingsAppInfoTranslate"="Ohje käännös";
+"settingsAppInfoTranslateURL"="https://github.com/bj1024/CopyCleanerTranslate";
+"settingSecAppReview"="Review sovellus";
 "settingSecAppShare"="Jaa sovellustiedot";
 "settingSecAppStoreDevelopperURL"="Suositeltu sovellus";
 "settingSecPurchase"="Ostaa";
@@ -26,8 +28,9 @@
 "strOk"="kunnossa";
 "strCancel"="Peruuttaa";
 "buttonClear"="Asia selvä";
+"buttonRefresh"="virkistää";
 "selectLang"="Valitse kieli";
 "selectLangDesc"="Valitse näytettävä kieli. Valinnan jälkeen sovellus on tilapäisesti poistutaan.";
 "isLangOK"="Voinko vaihtaa kieltä? Sovellus päättyy kerran.";
 "langDefault"="oletusarvo";
-"shareText"="Yksinkertaisia ​​leikepöydälle katsoja, puhtaampaa. ";
+"shareText"="Yksinkertaisia ​​leikepöydälle katsoja, puhtaampaa.\n";

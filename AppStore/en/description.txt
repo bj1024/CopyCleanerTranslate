@@ -1,4 +1,4 @@
-Copy&Paste Cleaner is clipboard viewer & cleaner.You can see the text and images copied in the clipboard and can delete immidiately.
+Simple Clipboard viewer & cleaner.You can see the text and images copied in the clipboard and can delete immidiately.
 When you copy text or images,copied data are still in the clipboard.Before you use the incorrect text and image, let's erace the clipboard.
 Let's prevent such password outflow,erroneous transmission.
 

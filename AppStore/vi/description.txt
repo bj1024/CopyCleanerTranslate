@@ -1,10 +1,10 @@
-Copy & Paste Cleaner là vào clipboard xem & cleaner.You có thể thấy văn bản và hình ảnh được sao chép trong clipboard và có thể xóa immidiately.
+Đơn giản Clipboard viewer & cleaner.You có thể thấy văn bản và hình ảnh được sao chép trong clipboard và có thể xóa immidiately.
 Khi bạn sao chép văn bản hoặc hình ảnh, dữ liệu sao chép vẫn đang trong clipboard.Before bạn sử dụng nội dung không chính xác và hình ảnh, chúng ta hãy erace clipboard.
 Hãy ngăn chặn mật khẩu chảy ra như vậy, truyền sai lầm.
 
 ** Tính năng chính
 - Hiện nội dung clipboard hiện (Text và hình ảnh).
-- Xóa nội dung clipboard trong một cú nhấp chuột.
+- nội dung clipboard Xóa trong một cú nhấp chuột.
 - Xóa vào clipboard đôi khi ở chế độ nền.
 - Thông báo cho vào clipboard thanh toán bù trừ.
 - Sự lựa chọn ngôn ngữ.

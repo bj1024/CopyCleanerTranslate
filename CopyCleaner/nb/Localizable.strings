@@ -1,4 +1,4 @@
-"mainTitle"="Kopier og lim inn Cleaner";
+"mainTitle"="Erase Copy";
 "appnamePro"="Pro";
 "lblEmpty"="Utklippstavlen er tom.";
 "notifyUseme"="Sjekk utklippstavlen for sikkerhet.";
@@ -10,7 +10,9 @@
 "settingsAppinfotitle"="appinformasjon";
 "settingsAppinfoSiteLink"="Web Site";
 "settingSecAppInfoURL"="https://digitalnauts.com/app/copycleaner/";
-"settingSecAppReview"="Vennligst rangere og stjerne dette programmet.";
+"settingsAppInfoTranslate"="Hjelp oversettelse";
+"settingsAppInfoTranslateURL"="https://github.com/bj1024/CopyCleanerTranslate";
+"settingSecAppReview"="omtale app";
 "settingSecAppShare"="Del app informasjon";
 "settingSecAppStoreDevelopperURL"="Anbefalt app";
 "settingSecPurchase"="Kjøp";
@@ -26,8 +28,9 @@
 "strOk"="OK";
 "strCancel"="Avbryt";
 "buttonClear"="Klar";
+"buttonRefresh"="Forfriske";
 "selectLang"="Velg språk";
 "selectLangDesc"="Velg språk som skal vises. Når den er valgt, blir programmet midlertidig avsluttes.";
 "isLangOK"="Kan jeg bytte språk? Søknaden vil ende gang.";
 "langDefault"="misligholde";
-"shareText"="Enkelt utklippstavlen viewer, renere. ";
+"shareText"="Enkelt utklippstavlen viewer, renere.\n";

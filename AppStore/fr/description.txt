@@ -1,6 +1,6 @@
-Cleaner Copier et coller est spectateur presse-papiers et cleaner.You peut voir le texte et les images copiées dans le presse-papiers et peuvent supprimer immidiately.
+visionneuse de presse-papiers simple et cleaner.You peuvent voir le texte et les images copiées dans le presse-papiers et peuvent supprimer immidiately.
 Lorsque vous copiez du texte ou des images, les données copiées sont encore dans le clipboard.Before vous utilisez le texte incorrect et de l'image, nous allons Erace le presse-papiers.
-Nous allons prévenir de telles sorties de mot de passe, la transmission erronée.
+, Prévenons cette sortie de mot de passe, la transmission erronée.
 
 ** caractéristique principale
 - Afficher le contenu du presse-papier (texte et image).

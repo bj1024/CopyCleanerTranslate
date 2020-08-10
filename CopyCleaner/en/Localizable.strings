@@ -1,4 +1,4 @@
-"mainTitle"="Copy&Paste Cleaner";
+"mainTitle"="Erase Copy";
 "appnamePro"="Pro";
 "lblEmpty"="Clipboard is empty.";
 "notifyUseme"="Check the clipboard data for security.";
@@ -10,7 +10,9 @@
 "settingsAppinfotitle"="App information";
 "settingsAppinfoSiteLink"="WEB Site";
 "settingSecAppInfoURL"="https://digitalnauts.com/app/copycleaner/";
-"settingSecAppReview"="Please rate and star this app.";
+"settingsAppInfoTranslate"="Help translation";
+"settingsAppInfoTranslateURL"="https://github.com/bj1024/CopyCleanerTranslate";
+"settingSecAppReview"="Review app";
 "settingSecAppShare"="Share app information";
 "settingSecAppStoreDevelopperURL"="Recommended app";
 "settingSecPurchase"="Purchase";
@@ -26,8 +28,9 @@
 "strOk"="OK";
 "strCancel"="Cancel";
 "buttonClear"="Clear";
+"buttonRefresh"="Refresh";
 "selectLang"="Select language";
 "selectLangDesc"="Please select the language to display. Once selected, the application is temporarily exited.";
 "isLangOK"="May I switch languages? The application will end once.";
 "langDefault"="default";
-"shareText"="Simple clipboard viewer,cleaner. ";
+"shareText"="Simple clipboard viewer,cleaner.\n";

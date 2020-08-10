@@ -1,4 +1,4 @@
-Kopioi ja liitä Cleaner on leikepöydälle katsoja & cleaner.You voi nähdä tekstin ja kuvien kopioidaan leikepöydälle ja voi poistaa immidiately.
+Yksinkertainen leikepöydälle katsoja & cleaner.You voi nähdä tekstin ja kuvien kopioidaan leikepöydälle ja voi poistaa immidiately.
 Kun kopioida tekstiä tai kuvia, kopioidut tiedot ovat vielä clipboard.Before käytät väärän tekstin ja kuvan, nyt erace leikepöydälle.
 Katsotaan estää salasanalla ulosvirtaus, virheellinen lähetys.
 

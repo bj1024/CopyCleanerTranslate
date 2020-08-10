@@ -1,11 +1,11 @@
-Copy & Paste Cleaner is klembord viewer & cleaner.You kunt zien dat de tekst en afbeeldingen gekopieerd naar het klembord en kan onmiddellijk opgelost verwijderen.
+Simple Clipboard viewer & cleaner.You kunt zien dat de tekst en afbeeldingen gekopieerd naar het klembord en kan onmiddellijk opgelost verwijderen.
 Wanneer u tekst of afbeeldingen te kopiëren, gekopieerde gegevens zijn nog steeds in de clipboard.Before u het beeld onjuist tekst en gebruikt, laten we erace het klembord.
 Laten we voorkomen dat dergelijke wachtwoord uitstroom, foutieve transmissie.
 
 ** belangrijkste kenmerk
 - Laat de huidige inhoud van het klembord (tekst en beeld).
-- Verwijder inhoud van het klembord in één klik.
-- Verwijder klembord soms op de achtergrond.
+- Delete inhoud van het klembord in één klik.
+- Delete klembord soms op de achtergrond.
 - Houd voor klembord clearing.
 - Taal selectie.
 

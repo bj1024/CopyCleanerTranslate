@@ -1,11 +1,11 @@
-Copy & Paste Cleaner adalah penonton clipboard & cleaner.You boleh melihat teks dan imej disalin clipboard dan boleh memadam immidiately.
-Apabila anda menyalin teks atau imej, data disalin masih clipboard.Before yang anda gunakan teks yang salah dan imej, mari kita erace papan klip.
+Mudah Clipboard penonton & cleaner.You boleh melihat teks dan imej disalin clipboard dan boleh memadam immidiately.
+Apabila anda menyalin teks atau imej, data disalin masih clipboard.Before yang anda gunakan teks yang salah dan imej, biarkan erace ini papan klip.
 Mari kita mengelakkan aliran keluar kata laluan tersebut, penghantaran yang salah.
 
 ** ciri utama
 - Tunjukkan kandungan papan klip semasa (teks dan imej).
-- Padam kandungan papan klip dalam satu klik.
-- Padam clipboard kadang-kadang dalam latar belakang.
+- kandungan papan klip Delete dalam satu klik.
+- clipboard Padam kadang-kadang dalam latar belakang.
 - Beritahu untuk clipboard penjelasan.
 - Pemilihan bahasa.
 

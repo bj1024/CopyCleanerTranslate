@@ -1,11 +1,11 @@
-Kopyala ve Yapıştır Temizleyici pano görüntüleyici & cleaner.You metin ve resimler panoya kopyalanan ve turnike silebilir görebilirsiniz.
-Eğer metin veya görüntü kopyalarsanız kopyalanan veriler yanlış metin ve resim kullanmak clipboard.Before hala, en panoya erace edelim.
-en tür şifre çıkışı hatalı geçişini önlemek edelim.
+Basit Pano görüntüleyici & cleaner.You metin ve resimler panoya kopyalanan ve turnike silebilir görebilirsiniz.
+Eğer metin veya görüntü kopyalarsanız kopyalanan veriler yanlış metin ve resim kullanmak clipboard.Before hala, 's erace pano edelim.
+en tür şifre çıkışı hatalı iletim engel olalım.
 
 ** ana özellik
-- Geçerli pano içeriğini (Metin ve Resim) göster.
-- Tek bir tıklamayla pano içeriğini silin.
-- Arka planda bazen panoya silin.
+- Mevcut pano içeriğini (Metin ve Resim) göster.
+- Tek bir tıklamayla Sil pano içeriği.
+- Arka planda bazen Sil pano.
 - pano temizleme için bildir.
 - Dil seçimi.
 

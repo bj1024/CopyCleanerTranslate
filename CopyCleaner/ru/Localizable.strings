@@ -1,4 +1,4 @@
-"mainTitle"="Очиститель Буфера обмена";
+"mainTitle"="Erase Copy";
 "appnamePro"="Pro";
 "lblEmpty"="Буфер обмена пуст.";
 "notifyUseme"="Проверьте данные из буфера обмена в целях безопасности.";
@@ -10,6 +10,8 @@
 "settingsAppinfotitle"="О приложении";
 "settingsAppinfoSiteLink"="Веб-сайт";
 "settingSecAppInfoURL"="https://digitalnauts.com/app/copycleaner/";
+"settingsAppInfoTranslate"="Помощь перевод";
+"settingsAppInfoTranslateURL"="https://github.com/bj1024/CopyCleanerTranslate";
 "settingSecAppReview"="Оценить приложение";
 "settingSecAppShare"="Поделиться приложением";
 "settingSecAppStoreDevelopperURL"="Рекомендуемые приложения";
@@ -26,6 +28,7 @@
 "strOk"="ОК";
 "strCancel"="Отмена";
 "buttonClear"="Очистить";
+"buttonRefresh"="Oбновление";
 "selectLang"="Выбрать язык";
 "selectLangDesc"="Пожалуйста, выберите язык для отображения. После выбора приложение закрыть.";
 "isLangOK"="Приложение необходимо закрыть один раз.";

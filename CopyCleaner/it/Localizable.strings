@@ -1,4 +1,4 @@
-"mainTitle"="Copia Incolla Cleaner";
+"mainTitle"="Erase Copy";
 "appnamePro"="Pro";
 "lblEmpty"="Appunti è vuoto.";
 "notifyUseme"="Controllare i dati degli Appunti per la sicurezza.";
@@ -10,13 +10,15 @@
 "settingsAppinfotitle"="informazioni applicazioni";
 "settingsAppinfoSiteLink"="Sito web";
 "settingSecAppInfoURL"="https://digitalnauts.com/app/copycleaner/";
-"settingSecAppReview"="Si prega di valutare e stella questa applicazione.";
+"settingsAppInfoTranslate"="traduzione Aiuto";
+"settingsAppInfoTranslateURL"="https://github.com/bj1024/CopyCleanerTranslate";
+"settingSecAppReview"="recensione app";
 "settingSecAppShare"="Informazioni Condividi app";
 "settingSecAppStoreDevelopperURL"="App consigliato";
 "settingSecPurchase"="Acquista";
 "settingSecPurchaseRemoveAds"="Rimuovere gli annunci addon";
-"settingSecPurchaseRemoveAdsEnded"="Rimuovere gli annunci (Acquistato)";
-"settingSecPurchaseRestore"="Ripristinare addon acquistati";
+"settingSecPurchaseRemoveAdsEnded"="Annunci Rimuovere (Acquistato)";
+"settingSecPurchaseRestore"="Ripristinare addon acquistato";
 "removeAdsAlertTitle"="Rimuovere gli annunci Conferma";
 "removeAdsAlertMes"="Vuoi acquistare uno";
 "removeAdsAlertThanks"="Grazie!";
@@ -26,8 +28,9 @@
 "strOk"="ok";
 "strCancel"="Annulla";
 "buttonClear"="Chiaro";
+"buttonRefresh"="ricaricare";
 "selectLang"="Seleziona la lingua";
 "selectLangDesc"="Si prega di selezionare la lingua da visualizzare. Una volta selezionato, l'applicazione è temporaneamente uscito.";
 "isLangOK"="Posso passare da una lingua? L'applicazione si concluderà una volta.";
 "langDefault"="predefinito";
-"shareText"="visualizzatore di appunti semplice, più pulito. ";
+"shareText"="visualizzatore di appunti semplice, più pulito.\n";

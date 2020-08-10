@@ -1,4 +1,4 @@
-"mainTitle"="Kopier og indsæt Cleaner";
+"mainTitle"="Slet Kopier";
 "appnamePro"="Pro";
 "lblEmpty"="Udklipsholder er tom.";
 "notifyUseme"="Tjek klippebordets data for sikkerhed.";
@@ -10,7 +10,9 @@
 "settingsAppinfotitle"="App oplysninger";
 "settingsAppinfoSiteLink"="Internet side";
 "settingSecAppInfoURL"="https://digitalnauts.com/app/copycleaner/";
-"settingSecAppReview"="Please rate og stjerne denne app.";
+"settingsAppInfoTranslate"="Hjælp oversættelse";
+"settingsAppInfoTranslateURL"="https://github.com/bj1024/CopyCleanerTranslate";
+"settingSecAppReview"="anmeldelse app";
 "settingSecAppShare"="Del app information";
 "settingSecAppStoreDevelopperURL"="Anbefalet app";
 "settingSecPurchase"="Køb";
@@ -19,15 +21,16 @@
 "settingSecPurchaseRestore"="Gendan købt addon";
 "removeAdsAlertTitle"="Fjern annoncer Bekræft";
 "removeAdsAlertMes"="Ønsker du at købe en";
-"removeAdsAlertThanks"="Tak!";
+"removeAdsAlertThanks"="Tak skal du have!";
 "removeAdsAlertFailed"="Indkøb failed.not købt endnu.";
 "removeAdsAlertRestored"="Forrige køb er genoprettet.";
 "removeAdsAlertDeferrd"="Indkøb udskudt.";
 "strOk"="Okay";
 "strCancel"="Afbestille";
 "buttonClear"="Klar";
+"buttonRefresh"="Opdater";
 "selectLang"="Vælg sprog";
-"selectLangDesc"="Vælg det ønskede sprog for. Når det er valgt, er programmet midlertidigt forlades.";
+"selectLangDesc"="Vælg sprog til visning. Når det er valgt, er programmet midlertidigt forlades.";
 "isLangOK"="Må jeg skifte sprog? Ansøgningen vil ende en gang.";
 "langDefault"="Standard";
-"shareText"="Enkel udklipsholderen fremviser, renere. ";
+"shareText"="Enkel udklipsholderen fremviser, renere.\n";

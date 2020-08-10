@@ -1,4 +1,4 @@
-Kopier og lim inn Cleaner er utklippstavlen viewer & cleaner.You kan se tekst og bilder kopiert i utklippstavlen, og kan slette mine umiddelbart.
+Enkelt Clipboard seer & cleaner.You kan se tekst og bilder kopiert i utklippstavlen, og kan slette mine umiddelbart.
 Når du kopierer tekst eller bilder, kopierte data er fortsatt i clipboard.Before du bruker feil tekst og bilde, la oss erace utklippstavlen.
 La oss unngå slike passord utstrømming, feilaktig overføring.
 
